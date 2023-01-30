@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @phallikainen
-- 👀 I’m interested in azure and golf
+- 👀 I’m interested in security and especially GitHub Security, Microsoft Defender for Cloud and DevSecOps
 - 📫 How to reach me phallikainen@proton.me
